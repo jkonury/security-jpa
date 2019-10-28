@@ -23,4 +23,5 @@ spring:
 
 logging:
   level:
+    org.springframework.security: debug
     org.hibernate.type.descriptor.sql.BasicBinder: trace
